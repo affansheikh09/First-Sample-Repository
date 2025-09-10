@@ -9,4 +9,10 @@ This could be the third heading in repository
 *This text is italics*\
 ***This text is both bold and italics***\
  ~~OOPS I made an error~~
-> this is quote 
+> this is quote
+* smith
++ keth
+- george
+1. First list item
+  -First nested list item
+    - Second nested list item
