@@ -14,5 +14,9 @@ This could be the third heading in repository
 + keth
 - george
 1. First list item
-  -First nested list item
+  - First nested list item
     - Second nested list item
+
+- [x] #739
+- [ ] https://github.com//octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are
